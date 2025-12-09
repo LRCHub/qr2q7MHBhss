@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "backseat",
+  "base_artist": "KEIJU",
+  "createdAt": "2025-12-09T14:31:30.128607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Safe to Say You Dig the Backseat",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_It's_Safe_to_Say_You_Dig_the_Backseat_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Lil Zubin feat. Fantasy Camp & Cold Hart",
+      "has_synced": false,
+      "path": "select/02_Backseat_Lil_Zubin_feat._Fantasy_Camp_&_Cold_Hart.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Backseat (feat. Cold Hart)",
+      "artist": "Lil Zubin & Fantasy Camp",
+      "has_synced": false,
+      "path": "select/03_Backseat_(feat._Cold_Hart)_Lil_Zubin_&_Fantasy_Camp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Backseat Love",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/04_Backseat_Love_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Juicy J feat. Project Pat & Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/05_Backseat_Juicy_J_feat._Project_Pat_&_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Backseat (feat. Project Pat)",
+      "artist": "Juicy J & Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/06_Backseat_(feat._Project_Pat)_Juicy_J_&_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In the Backseat",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/07_In_the_Backseat_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Backseat Love",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/08_Backseat_Love_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Cibo Matto",
+      "has_synced": false,
+      "path": "select/09_Backseat_Cibo_Matto.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Backseat (feat. Carly Rae Jepsen)",
+      "artist": "Charli XCX feat. Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/10_Backseat_(feat._Carly_Rae_Jepsen)_Charli_XCX_feat._Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Backseat (feat. Carly Rae Jepsen)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/11_Backseat_(feat._Carly_Rae_Jepsen)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Cibo Matto",
+      "has_synced": true,
+      "path": "select/12_Backseat_Cibo_Matto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Darker My Love",
+      "has_synced": false,
+      "path": "select/13_Backseat_Darker_My_Love.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Carina Round",
+      "has_synced": true,
+      "path": "select/14_Backseat_Carina_Round.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seven Hours With A Backseat Driver",
+      "artist": "Gotye",
+      "has_synced": false,
+      "path": "select/15_Seven_Hours_With_A_Backseat_Driver_Gotye.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Backseat",
+      "artist": "Iggy Azalea feat. Chevy Jones",
+      "has_synced": true,
+      "path": "select/16_Backseat_Iggy_Azalea_feat._Chevy_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "backseat (feat. Kvi Baba & tofubeats)",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_backseat_(feat._Kvi_Baba_&_tofubeats)_KEIJU.txt"
+    }
+  ]
+}
